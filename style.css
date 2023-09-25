@@ -1,0 +1,77 @@
+/*Corpo página*/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background: #1e2125;
+        }
+#principal{
+    width: 1670px;
+}
+#menu{
+    background: #f3940e;
+    padding: 18px;
+    }
+a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    padding: 5px;
+}
+.charles-darwin{
+    border: 10px solid #ffffff;
+    align-items: center;
+    
+}
+p{
+    color: #ffffff;
+    font-size: larger;
+    width: 700px;
+    padding: 10px;
+    text-align: justify;
+}
+h1{
+    padding: 10px 50px;
+    color: rgb(255, 168, 54);
+
+
+}
+h2{
+    color: rgb(255, 168, 54);
+    padding: 10px;
+}
+iframe{
+    border: 5px solid black;
+}
+figure {
+    max-width: 220px;
+}
+figcaption {
+    color: rgb(255, 203, 114);
+    font: italic smaller sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+#lista-resumo{
+    border: 10px solid rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background: white ;
+    width: 900px;;
+}
+li{
+    padding: 10px;
+    color: #4933c9;
+}
+#lista-referencias{
+    font-size: larger;
+    color: #ffffff;
+}
+a:hover{
+    background: rgb(248, 194, 124);
+    border-radius: 20%;
+}
+
+a{
+    color: rgb(255, 255, 255)
+}
+
