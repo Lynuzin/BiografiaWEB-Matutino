@@ -1,0 +1,67 @@
+/*Corpo página*/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background: #1e2125;
+        }
+#principal{
+    width: 1670px;
+}
+#menu{
+    background: #f3940e;
+    padding: 18px;
+    }
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 5px;
+}
+.charles-darwin{
+    border: 10px solid #ffffff;
+    align-items: center;
+    
+}
+p{
+    color: #ffffff;
+    font-size: larger;
+    width: 700px;
+    padding: 10px;
+    text-align: justify;
+}
+h1{
+    padding: 10px 50px;
+    color: rgb(255, 168, 54);
+
+
+}
+h2{
+    color: rgb(255, 168, 54);
+    padding: 10px;
+}
+iframe{
+    border: 5px solid black;
+}
+li{
+    padding: 10px;
+    color: #4933c9;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+}
+
+a:hover{
+    background: rgb(248, 194, 124);
+    border-radius: 20%;
+}
+
+footer {
+	background-color: #00549e;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+figcaption{
+    color: #ffb521;
+}
